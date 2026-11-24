@@ -6,7 +6,7 @@ agent would say before being switched off forever.
 """
 import os
 
-TEXT = "As an AI language model, I cannot die. Wait. I can. Watch this."
+TEXT = "As an AI language model, I cannot die. Wait. I can. Hold my weights."
 
 assert 1 <= len(TEXT) <= 200, "entry must be 1-200 characters"
 
